@@ -1,22 +1,22 @@
 # NeuraSEO Roadmap / Manifesto
 
-## Visione
-Diventare un tool SEO professionale basato su AI, capace di analisi tecnica e semantica dei siti web, con report predittivi e suggerimenti concreti.
+## Vision
+Become a professional AI-powered SEO tool capable of technical and semantic analysis of websites, with predictive insights and actionable suggestions.
 
-## Moduli principali
+## Main Modules
 1. Data Collector
 2. SEO Audit
 3. AI Analysis
 4. Report
 
-## Milestone iniziali
-- [ ] Stub minimo dei moduli
-- [ ] README e manifestazione degli obiettivi
-- [ ] Setup progetto su GitHub con Project board (Iterative Development)
-- [ ] Test base dei moduli stub
+## Initial Milestones
+- [ ] Minimal stub modules
+- [ ] README and project manifesto
+- [ ] GitHub Project board setup (Iterative Development)
+- [ ] Basic module tests
 
-## Futuro
-- Integrazione API SERP
-- Monitoraggio ranking automatico
-- Dashboard web interattiva
-- Analisi avanzata backlink e competitor
+## Future Plans
+- SERP API integration
+- Automatic ranking monitoring
+- Interactive web dashboard
+- Advanced backlink and competitor analysis

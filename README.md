@@ -1,32 +1,32 @@
 # NeuraSEO
 
-NeuraSEO è un tool SEO professionale basato su AI per l'analisi e l'ottimizzazione dei siti web.
+NeuraSEO is an AI-powered SEO tool for technical and semantic website analysis.
 
-## Visione
-Fornire uno strumento completo per valutare SEO tecnica e semantica, con report intelligenti e suggerimenti predittivi.
+## Vision
+Provide a complete tool to evaluate technical and semantic SEO, with intelligent reports and actionable optimization suggestions.
 
-## Obiettivi iniziali
-- Creare un framework modulare per l'analisi SEO.
-- Implementare audit tecnico base (title, meta, headings, alt text, link).
-- Integrare analisi semantica AI sui contenuti.
-- Generare report chiari e fruibili.
-- Scalabilità per future funzionalità avanzate (monitoraggio SERP, ranking predittivo, dashboard web).
+## Initial Goals
+- Build a modular framework for SEO analysis.
+- Implement basic technical audit (title, meta, headings, alt text, links).
+- Integrate AI semantic content analysis.
+- Generate clear and actionable reports.
+- Scalable architecture for future advanced features (SERP monitoring, predictive ranking, web dashboard).
 
-## Struttura del progetto
-- `src/` → codice principale (moduli: data_collector, seo_audit, ai_analysis, report)
-- `tests/` → test di unità
-- `README.md` → documentazione principale
-- `ROADMAP.md` → manifesto e roadmap del progetto
+## Project Structure
+- `src/` → main code (modules: data_collector, seo_audit, ai_analysis, report)
+- `tests/` → unit tests
+- `README.md` → main documentation
+- `ROADMAP.md` → project manifesto and roadmap
 
-## Come iniziare
+## Getting Started
 ```bash
-# Clona il repo
-git clone <url-repo>
+# Clone the repo
+git clone <repo-url>
 cd NeuraSEO
 
 # Install dependencies (Python 3.10+)
 pip install -r requirements.txt
 ```
 
-## Licenza
+## License
 [MIT License](LICENSE)
